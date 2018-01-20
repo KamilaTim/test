@@ -1,2 +1,2 @@
-print 123456789
+print 12
 print ("Kamila")
